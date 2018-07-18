@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "theme",
+	"version": "0",
+	"permissions": [
+		"theme"
+	],
+	"background": {
+		"scripts": [
+			"source.js"
+		]
+	}
+}

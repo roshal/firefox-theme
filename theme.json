@@ -1,0 +1,25 @@
+{
+	"theme": {
+		"colors": {
+			"accentcolor": "#fff",
+			"button_background_active": "#ccc",
+			"button_background_hover": "#ddd",
+			"icons_attention": "#06c",
+			"popup_border": "#ccc",
+			"popup_highlight": "#eee",
+			"tab_background_separator": "#ccc",
+			"tab_line": "#eee",
+			"tab_loading": "#06c",
+			"tab_selected": "#eee",
+			"textcolor": "#000",
+			"toolbar": "#eee",
+			"toolbar_bottom_separator": "#ccc",
+			"toolbar_field": "#fff",
+			"toolbar_field_border": "#ccc",
+			"toolbar_field_border_focus": "#06c",
+			"toolbar_field_separator": "#ccc",
+			"toolbar_top_separator": "#ccc",
+			"toolbar_vertical_separator": "#ccc"
+		}
+	}
+}
